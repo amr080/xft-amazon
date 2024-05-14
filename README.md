@@ -5,8 +5,8 @@ We believe the financial system should serve everyone. Decentralized Finance fos
 XFT's onchain ecommerce platform. 
 
 ### Resources
-Website: xftco.com
-Linktree: https://linktr.ee/alexander.reed
+- Website: xftco.com
+- Linktree: https://linktr.ee/alexander.reed
 
 [Github](https://github.com/X-Financial-Technologies) | [X](https://twitter.com/amr_080)  | [LinkedIn](https://www.linkedin.com/company/xfintech)
 
